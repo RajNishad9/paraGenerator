@@ -1,0 +1,2 @@
+# paraGenerator
+Generates paragraph.
